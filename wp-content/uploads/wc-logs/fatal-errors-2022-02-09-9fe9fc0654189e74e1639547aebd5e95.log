@@ -1,0 +1,12 @@
+2022-02-09T15:42:29+00:00 CRITICAL Cannot use Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments as WooCommercePayments because the name is already in use in E:\wamp64\www\hami\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\SetUpAdditionalPaymentTypes.php on line 13
+
+2022-02-09T15:42:29+00:00 CRITICAL Cannot use Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments as WooCommercePayments because the name is already in use in E:\wamp64\www\hami\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\SetUpAdditionalPaymentTypes.php on line 13
+
+2022-02-09T15:44:05+00:00 CRITICAL Cannot use Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments as WooCommercePayments because the name is already in use in E:\wamp64\www\hami\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\SetUpAdditionalPaymentTypes.php on line 13
+
+2022-02-09T15:44:14+00:00 CRITICAL Cannot use Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments as WooCommercePayments because the name is already in use in E:\wamp64\www\hami\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\SetUpAdditionalPaymentTypes.php on line 13
+
+2022-02-09T15:44:15+00:00 CRITICAL Cannot use Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments as WooCommercePayments because the name is already in use in E:\wamp64\www\hami\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\SetUpAdditionalPaymentTypes.php on line 13
+
+2022-02-09T15:46:17+00:00 CRITICAL Cannot use Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks\WooCommercePayments as WooCommercePayments because the name is already in use in E:\wamp64\www\hami\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\SetUpAdditionalPaymentTypes.php on line 13
+
