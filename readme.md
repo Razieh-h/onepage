@@ -1,1 +1,1 @@
-<img src="https://github.com/Razieh-h/onepage/blob/master/wp-content/themes/catweb/img/screenshot.jpg">
+<img src="https://github.com/Razieh-h/onepage/blob/master/wp-content/themes/catweb/img/screencapture.jpg">
